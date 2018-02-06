@@ -1,4 +1,4 @@
-# Neon Test
+# Angular 2
 
 Projeto feito para o módulo 2 do curso de Angular 2 da alura
 
